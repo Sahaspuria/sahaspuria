@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sahaspuria](https://github.com/Sahaspuria)
+- 👨‍💻 All of my projects are available at [gitHub](https://github.com/Sahaspuria)
 
-- 📝 I regularly write articles on [https://Linkedin.com/Sahaspuria](https://Linkedin.com/Sahaspuria)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/sahaspuria/)
 
 - 📫 How to reach me **faizangeek@gmail.com**
 
