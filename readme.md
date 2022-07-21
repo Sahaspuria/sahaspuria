@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [gitHub](https://github.com/Sahaspuria)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Sahaspuria)
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/sahaspuria/)
 
