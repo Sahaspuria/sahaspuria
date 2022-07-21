@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [100 Days of CSS](https://100dayscss.com/progress/sahaspuria/)
 
-- 🌱 I’m currently learning **React, JS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sahaspuria](https://github.com/Sahaspuria)
 
