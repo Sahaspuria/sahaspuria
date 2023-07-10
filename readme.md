@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Sahaspuria)
 
-- 📝 I regularly write articles on My LinkedIn [LinkedIn](https://www.linkedin.com/in/sahaspuria/)
+- 📝 I regularly write articles on My [LinkedIn](https://www.linkedin.com/in/sahaspuria/)
 
 - 📫 How to reach me **faizangeek@gmail.com**
 
